@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+I used Semantic-UI and Grid CSS for styling and utilized the Unsplash.io API for photo collection to allow a user to search photos by keyword.
+
 ## Available Scripts
 
 In the project directory, you can run:
